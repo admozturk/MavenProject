@@ -1,3 +1,5 @@
 public class FeatureE {
-    // let's see the conflict
+    // watching a movie
+    // new one
+    // for fun
 }
