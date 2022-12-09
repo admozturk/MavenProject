@@ -1,3 +1,3 @@
 public class FeatureF {
-    // new clss added
+    // new class added
 }
